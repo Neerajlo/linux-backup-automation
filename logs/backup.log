@@ -14,3 +14,7 @@ tar: Removing leading `/' from member names
 tar: Removing leading `/' from member names
 [Tue Aug 25 07:16:42 UTC 2026] Backup successful: /home/ubuntu/linux-backup-suite/backups/backup_2026-08-25_07-16-42.tar.gz
 [Tue Aug 25 07:16:42 UTC 2026] Backup completed
+[Tue Aug 25 09:00:01 UTC 2026] Backup started
+tar: Removing leading `/' from member names
+[Tue Aug 25 09:00:01 UTC 2026] Backup successful: /home/ubuntu/linux-backup-suite/backups/backup_2026-08-25_09-00-01.tar.gz
+[Tue Aug 25 09:00:01 UTC 2026] Backup completed
