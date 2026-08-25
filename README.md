@@ -2,13 +2,6 @@
 
 A production-grade automation suite for Linux servers that handles scheduled backups, system health monitoring, log rotation, and automated recovery — built entirely with native Linux tooling (no third-party agents required).
 
-![Bash](https://img.shields.io/badge/Bash-5.x-4EAA25?logo=gnubash&logoColor=white)
-![Systemd](https://img.shields.io/badge/Systemd-managed-orange)
-![Cron](https://img.shields.io/badge/Cron-scheduled-blue)
-![Rsync](https://img.shields.io/badge/Rsync-sync-green)
-![SSH](https://img.shields.io/badge/SSH-secured-black)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ---
 
 ## 📌 Overview
